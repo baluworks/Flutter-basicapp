@@ -8,6 +8,7 @@ class Answer extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
+    print(answer);
     return Container(
       width: double.infinity,
       height: 45,
